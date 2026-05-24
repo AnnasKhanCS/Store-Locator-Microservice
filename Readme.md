@@ -1,4 +1,4 @@
-## Unit Converter Microservice
+## Store Locator Microservice
 
 ### Description
 Microservice returns a list of nearby grocery stores based on US zip code, a search radius and type of store (ex. supermarket) via REST API
